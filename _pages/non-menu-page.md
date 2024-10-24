@@ -1,16 +1,10 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /research/
+title: "Research"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+### Work in Progress
+Supplier Response to Matchmaking in Business-to-Business E-commerce: Spillover and Heterogeneity
+with Prof. Yixing Chen (Notre Dame), Prof. Ziwei Cong (Georgetown), and Prof. Liwen Hou (Shanghai Jiaotong University)
