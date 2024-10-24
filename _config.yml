@@ -21,7 +21,7 @@ repository               : "yichenacademic/yichenacademic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.PNG"
+  avatar           : "Profile.JPG"
   name             : "Yi Chen"
   pronouns         : ""  
   bio              : #"A second-year master student in Economics at Duke University"
