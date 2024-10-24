@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](files/Yi_Chen_Resume_20241024.pdf)
+[CV](../files/Yi_Chen_Resume_20241024.pdf)
