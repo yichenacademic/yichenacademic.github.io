@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "yichen.PNG"
   name             : "Yi Chen"
-  pronouns         : "she/her"  
-  bio              : "A second-year master student in Economics at Duke University"
+  pronouns         : #"she/her"  
+  bio              : #"A second-year master student in Economics at Duke University"
   location         : "Durham, NC"
   employer         : 
   uri              : # URL
